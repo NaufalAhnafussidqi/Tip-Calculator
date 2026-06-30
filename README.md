@@ -144,7 +144,7 @@ Mendukung 3 mode tema:
 
 ## 👤 Author
 
-**Naufal Ahnafus Sidqi**
+**Naufal Ahnafussidqi Perdana**
 
 ---
 
